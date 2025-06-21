@@ -44,5 +44,5 @@
 3. Εισαγωγή του `car_machine_shop.sql` στη MySQL
 4. Εκτέλεση μέσω `http://localhost/carshop/main`
 
-## 🎥 Video Demo
-[🔗 Δείτε την επίδειξη στο YouTube](https://youtu.be/96M8CFyl3YE?feature=shared)
+## Video Demo
+[ Δείτε την επίδειξη στο YouTube](https://youtu.be/96M8CFyl3YE?feature=shared)
